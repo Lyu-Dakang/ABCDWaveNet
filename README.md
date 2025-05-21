@@ -69,7 +69,7 @@ git clone https://github.com/Lyu-Dakang/ABCDWaveNet.git
 cd ABCDWaveNet
 Training
 Ensure datasets are correctly placed, then run:
-python train.py 
+python train.py
 ```
 ---
 
