@@ -43,11 +43,14 @@ Please download and place the datasets under the `data` directory.
 
 ---
 ## Results
+
 ![Comprehensive quantitative comparison of state-of-the-art (SOTA) methods on the Foggy-Puddle dataset.](./figure/foggy-puddle.png)
 
 ![Comprehensive quantitative comparison of state-of-the-art (SOTA) methods on the Puddle-1000 dataset.](./figure/puddle-1000.png)
 
 ![Comprehensive quantitative comparison of state-of-the-art (SOTA) methods on the Foggy Low-light Puddle dataset.](./figure/foggy-low-light.png)
+
+---
 
 ## Environment & Dependencies
 
@@ -67,8 +70,19 @@ cd ABCDWaveNet
 Training
 Ensure datasets are correctly placed, then run:
 python train.py 
-Training logs will be saved to training_log/, and model weights to weights/.
+```
+---
 
 
 ## Contact
+
 For questions or suggestions, please contact: lvdk@mail2.sysu.edu.cn
+
+---
+
+## Citation
+
+Ronghui Zhang, Dakang Lyu, Benfei Wang, Junzhou Chen, Tengfei Li, Bolin Gao, Yunfan Wu, Ujjal Manandhar, Danwei Wang, and Yiqiu Tan.
+ABCDWaveNet: Advancing Robust Road Ponding Detection in Fog through Dynamic Frequency-Spatial Synergy.
+Submitted to Engineering, 2025.
+arXiv preprint arXiv:2504.05112, https://arxiv.org/abs/2504.05112.
