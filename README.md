@@ -70,5 +70,5 @@ python train.py
 Training logs will be saved to training_log/, and model weights to weights/.
 
 
-Contact
+## Contact
 For questions or suggestions, please contact: lvdk@mail2.sysu.edu.cn
