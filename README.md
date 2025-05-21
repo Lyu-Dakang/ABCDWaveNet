@@ -83,6 +83,9 @@ For questions or suggestions, please contact: lvdk@mail2.sysu.edu.cn
 ## Citation
 
 Ronghui Zhang, Dakang Lyu, Benfei Wang, Junzhou Chen, Tengfei Li, Bolin Gao, Yunfan Wu, Ujjal Manandhar, Danwei Wang, and Yiqiu Tan.
+
 ABCDWaveNet: Advancing Robust Road Ponding Detection in Fog through Dynamic Frequency-Spatial Synergy.
+
 Submitted to Engineering, 2025.
+
 arXiv preprint arXiv:2504.05112, https://arxiv.org/abs/2504.05112.
