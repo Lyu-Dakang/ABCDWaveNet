@@ -1,5 +1,3 @@
----
-
 ## Method
 ![The Architecture of ABCDWaveNet(a): A U-Shaped Network Featuring Five Encoders, Four Decoders, Multi-Scale
 Information Aggregation (MIA), and Adaptive Attention Coupling Gate (AACG) Modules (d). The Encoder-Decoder Structure is Built by Stacking Dual Dynamic Convolution-Bidomain Information Synergy (DDC-BIS) Modules (b), with Each DDC Layer Comprising Two Consecutive Dynamic Convolution Layers (c).](./figure/overall.png)
