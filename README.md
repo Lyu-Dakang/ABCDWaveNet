@@ -1,7 +1,3 @@
-# ABCDWaveNet: Advancing Robust Road Ponding Detection in Fog through Dynamic Frequency-Spatial Synergy
-
-Ronghui Zhang, Dakang Lyu, Benfei Wang, Junzhou Chen, Tengfei Li, Bolin Gao, Yunfan Wu, Ujjal MANANDHAR, Danwei Wang and Yiqiu Tan
-
 ---
 ## Abstract
 Road ponding presents a significant threat to vehicle safety, particularly in adverse fog conditions,
